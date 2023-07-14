@@ -11,6 +11,7 @@ import javax.servlet.http.HttpServletResponse;
 
 //Thi sis very nice
 public class MyNewServlet extends HttpServlet {
+	//This is new line  dd
 	//This is new line
 	public void doGet(HttpServletRequest req , HttpServletResponse res) throws ServletException, IOException{
 		PrintWriter out = res.getWriter();
