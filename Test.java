@@ -9,6 +9,7 @@ import javax.servlet.http.HttpServlet;
 import javax.servlet.http.HttpServletRequest;
 import javax.servlet.http.HttpServletResponse;
 
+//Thi sis very nice
 public class MyServlet extends HttpServlet {
 	//This is new line
 	public void doGet(HttpServletRequest req , HttpServletResponse res) throws ServletException, IOException{
