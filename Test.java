@@ -10,7 +10,7 @@ import javax.servlet.http.HttpServletRequest;
 import javax.servlet.http.HttpServletResponse;
 
 public class MyServlet extends HttpServlet {
-	
+	//very nice from git hub
 	public void doGet(HttpServletRequest req , HttpServletResponse res) throws ServletException, IOException{
 		PrintWriter out = res.getWriter();
 		System.out.println("Hi");
